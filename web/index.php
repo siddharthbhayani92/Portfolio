@@ -270,7 +270,7 @@ email messages and sentiment analysis on 22,000 imdb movie reviews. Developed us
                     </div>
                 </div>
             	<div class="col-md-4 col-sm-6 portfolio-item">
-                    <img src="img/spam.jpg" class="img-responsive" alt="">
+                    <img src="img/ebay-app-logo.png" class="img-responsive" alt="">
                     <div class="portfolio-caption">
                         <h4>eBay Item Search - Android & Web Application</h4>
                         <p class="text-muted" style="text-align:justify;padding-top:10px">Developed a web and android application that allows users to search, view and share details of the items on sale at eBay. Deployed Server for processing the user's request on AWS Elastic Beanstalk cloud.</p>
